@@ -1,0 +1,15 @@
+{
+  "Database": {
+    "Host": "10.23.180.38",
+    "Name": "F_bank",
+    "User": "F_Admin",
+    "Password": "Fu1b@nk",
+    "Port": "1433",
+    "TrustServerCertificate": true,
+    "ConnectTimeout": 30
+  },
+  "Application": {
+    "Nom": "FulBank",
+    "Version": "1.0.0"
+  }
+}
