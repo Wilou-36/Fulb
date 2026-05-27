@@ -1,0 +1,10 @@
+C:\Users\willi\Documents\TP\BF\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\willi\Documents\TP\BF\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\willi\Documents\TP\BF\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\willi\Documents\TP\BF\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\TP\BF\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\willi\Documents\TP\BF\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\willi\Documents\TP\BF\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\willi\Documents\TP\BF\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\willi\Documents\TP\BF\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\willi\Documents\TP\BF\Bank\Bank\obj\Debug\Bank.exe.config
